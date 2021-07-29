@@ -1,0 +1,64 @@
+{"level":"info","message":"Starting assets export","timestamp":"2021-07-29T05:53:02.186Z"}
+{"level":"info","message":"Downloaded gaming-post.jpg: blt1227227b1efed9f3 successfully!","timestamp":"2021-07-29T05:53:06.164Z"}
+{"level":"info","message":"Downloaded education.jpg: blt4f162e829e5b85e4 successfully!","timestamp":"2021-07-29T05:53:06.464Z"}
+{"level":"info","message":"Downloaded icons8-quote-left-64.png: blt7bbfd3349525ca86 successfully!","timestamp":"2021-07-29T05:53:06.470Z"}
+{"level":"info","message":"Downloaded blog-list-hero-banner.jpg: blte7a1c2dcc7af951e successfully!","timestamp":"2021-07-29T05:53:06.996Z"}
+{"level":"info","message":"Skipping download of { title: gaming-post.jpg, uid: blt1227227b1efed9f3 }, as they already exist","timestamp":"2021-07-29T05:53:07.455Z"}
+{"level":"info","message":"Downloaded nuxtjs-sample-app.png: blt81c0af7fab7c9254 successfully!","timestamp":"2021-07-29T05:53:08.294Z"}
+{"level":"info","message":"Downloaded gaming1.jpg: blt07ad5771ea5e9f52 successfully!","timestamp":"2021-07-29T05:53:11.395Z"}
+{"level":"info","message":"Downloaded focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036.jpg: blt6eaca1d582e3c887 successfully!","timestamp":"2021-07-29T05:53:12.073Z"}
+{"level":"info","message":"Downloaded gaming.jpg: blt1227227b1efed9f3 successfully!","timestamp":"2021-07-29T05:53:13.840Z"}
+{"level":"info","message":"Downloaded Blog_banner.jpg: blte7a1c2dcc7af951e successfully!","timestamp":"2021-07-29T05:53:15.109Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_1.jpg: bltc139d7cb1b4be092 successfully!","timestamp":"2021-07-29T05:53:17.519Z"}
+{"level":"info","message":"Downloaded eugenio-mazzone-6ywyo2qtaZ8-unsplash.jpg: bltd4a579f4fdcd4626 successfully!","timestamp":"2021-07-29T05:53:18.792Z"}
+{"level":"info","message":"Downloaded gaming6.jpg: blt3f07081fb01a78f3 successfully!","timestamp":"2021-07-29T05:53:20.466Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_4.jpg: blteaecea94e49d0dc5 successfully!","timestamp":"2021-07-29T05:53:20.556Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_2.jpg: blt5de2d3427d980b00 successfully!","timestamp":"2021-07-29T05:53:22.820Z"}
+{"level":"info","message":"Downloaded foodBlog_post.jpg: bltcefc20dca1cb8833 successfully!","timestamp":"2021-07-29T05:53:25.161Z"}
+{"level":"info","message":"Downloaded technology.jpg: bltc5ea4f090d228221 successfully!","timestamp":"2021-07-29T05:53:27.052Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_3.jpg: bltc39858073517d8e7 successfully!","timestamp":"2021-07-29T05:53:27.404Z"}
+{"level":"info","message":"Downloaded travel_blog.jpg: blta7034e1df41c9d88 successfully!","timestamp":"2021-07-29T05:53:27.668Z"}
+{"level":"info","message":"Downloaded lukas-blazek-f-TWhXOrLiU-unsplash.jpg: blta6641dce71b6114b successfully!","timestamp":"2021-07-29T05:53:27.909Z"}
+{"level":"info","message":"Downloaded food_blog.jpg: blt4ae4806e287e42bf successfully!","timestamp":"2021-07-29T05:53:28.198Z"}
+{"level":"info","message":"Downloaded sports.jpg: blt86a91b37254f532e successfully!","timestamp":"2021-07-29T05:53:28.940Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_5.jpg: blt31ce21f323a3b725 successfully!","timestamp":"2021-07-29T05:53:36.513Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2021-07-29T05:53:36.513Z"}
+{"level":"info","message":"Downloaded gaming2.jpg: blt8c8185e0fb1740c1 successfully!","timestamp":"2021-07-29T05:53:40.635Z"}
+{"level":"info","message":"Downloaded arcade-buttons-computer-design-371924.jpg: blt1efc61abcb98a112 successfully!","timestamp":"2021-07-29T05:53:40.947Z"}
+{"level":"info","message":"Downloaded cake.png: blte3d5d07c0e7d16b0 successfully!","timestamp":"2021-07-29T05:53:41.086Z"}
+{"level":"info","message":"Downloaded game.png: blta7ed84fb4786c6c3 successfully!","timestamp":"2021-07-29T05:53:41.865Z"}
+{"level":"info","message":"Downloaded gaming4.jpg: blt350858bec50b9558 successfully!","timestamp":"2021-07-29T05:53:41.866Z"}
+{"level":"info","message":"Downloaded circus.png: bltfdff1a1db05a617f successfully!","timestamp":"2021-07-29T05:53:42.413Z"}
+{"level":"info","message":"Downloaded profile.png: blt51b286d953ea2d34 successfully!","timestamp":"2021-07-29T05:53:42.465Z"}
+{"level":"info","message":"Downloaded gaming3.jpg: bltd18a486fe9f0e5d5 successfully!","timestamp":"2021-07-29T05:53:42.733Z"}
+{"level":"info","message":"Downloaded gaming5.jpg: bltb8ac362e69975273 successfully!","timestamp":"2021-07-29T05:53:43.178Z"}
+{"level":"info","message":"Downloaded cabin.png: bltc43654e82ad91ab0 successfully!","timestamp":"2021-07-29T05:53:43.191Z"}
+{"level":"info","message":"Downloaded safe.png: blta71debddc7ac0261 successfully!","timestamp":"2021-07-29T05:53:43.237Z"}
+{"level":"info","message":"Downloaded submarine.png: blt87889ff836f72e82 successfully!","timestamp":"2021-07-29T05:53:43.906Z"}
+{"level":"info","message":"Batch no 21 of assets is complete","timestamp":"2021-07-29T05:53:43.907Z"}
+{"level":"info","message":"No folders were found in the stack!","timestamp":"2021-07-29T05:53:44.978Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2021-07-29T05:53:44.979Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2021-07-29T05:53:44.980Z"}
+{"level":"info","message":"No languages found except the master language","timestamp":"2021-07-29T05:53:45.489Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2021-07-29T05:53:45.490Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2021-07-29T05:53:46.832Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2021-07-29T05:53:46.843Z"}
+{"level":"info","message":"No extensions found","timestamp":"2021-07-29T05:53:47.333Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2021-07-29T05:53:47.334Z"}
+{"level":"info","message":"No webhooks found","timestamp":"2021-07-29T05:53:48.460Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2021-07-29T05:53:48.472Z"}
+{"level":"info","message":"\u001b[32mGlobal Fields export completed successfully\u001b[39m","timestamp":"2021-07-29T05:53:49.893Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2021-07-29T05:53:49.905Z"}
+{"level":"info","message":"\u001b[32mContent type(s) exported successfully\u001b[39m","timestamp":"2021-07-29T05:53:50.824Z"}
+{"level":"info","message":"Starting workflow export","timestamp":"2021-07-29T05:53:50.835Z"}
+{"level":"info","message":"No workflow were found in the Stack","timestamp":"2021-07-29T05:53:52.248Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2021-07-29T05:53:52.262Z"}
+{"level":"info","message":"Exported entries of header to the en-us language successfully","timestamp":"2021-07-29T05:53:55.115Z"}
+{"level":"info","message":"Exported entries of home to the en-us language successfully","timestamp":"2021-07-29T05:53:56.037Z"}
+{"level":"info","message":"Exported entries of blog_posts to the en-us language successfully","timestamp":"2021-07-29T05:53:58.495Z"}
+{"level":"info","message":"Exported entries of footer to the en-us language successfully","timestamp":"2021-07-29T05:54:00.336Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2021-07-29T05:54:00.337Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2021-07-29T05:54:00.347Z"}
+{"level":"info","message":"No labels found","timestamp":"2021-07-29T05:54:01.669Z"}
+{"level":"info","message":"\u001b[32mThe content of the blt398b654a8f2799a0 has been exported succesfully!\u001b[39m","timestamp":"2021-07-29T05:54:01.669Z"}
+{"level":"info","message":"The log for this is stored at nuxtjs/logs/export","timestamp":"2021-07-29T05:54:01.670Z"}
